@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D253E4E1-8941-40E0-4DEA-24B1EBE841C9}") = "Neural Test", "Assembly-CSharp.csproj", "{DC5E278A-A1A0-94CA-020E-452AB0BAF31C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC5E278A-A1A0-94CA-020E-452AB0BAF31C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC5E278A-A1A0-94CA-020E-452AB0BAF31C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC5E278A-A1A0-94CA-020E-452AB0BAF31C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC5E278A-A1A0-94CA-020E-452AB0BAF31C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{EF271127-0F61-A87F-F57A-2FAB346103E8}") = "Serok`s Dungeon", "Assembly-CSharp.csproj", "{F8C66992-90E7-8E1E-0618-0CF341EF9B31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8C66992-90E7-8E1E-0618-0CF341EF9B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C66992-90E7-8E1E-0618-0CF341EF9B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C66992-90E7-8E1E-0618-0CF341EF9B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C66992-90E7-8E1E-0618-0CF341EF9B31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
